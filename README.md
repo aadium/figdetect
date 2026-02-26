@@ -6,7 +6,7 @@ All data is extracted from here: [rhetoricon.uwaterloo.ca/admin/export](https://
 
 Store the 3 json files in the `input` directory.
 
-Run `pip freeze > requirements.txt`.
+Run `pip install -r requirements.txt`.
 
 Then, run `extract.py`, `english.py`, and `phonetize.py` in order to generate the CSV file usable for training.
 

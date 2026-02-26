@@ -145,8 +145,6 @@ pandocfilters==1.5.1
 parso==0.8.5
 peft==0.18.1
 pexpect==4.9.0
-# Editable install with no version control (photomaker==0.2.0)
--e /teamspace/studios/this_studio/PhotoMaker
 pillow==12.1.0
 platformdirs==4.5.1
 prettytable==3.17.0
